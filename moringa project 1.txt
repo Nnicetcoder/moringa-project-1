@@ -8,7 +8,7 @@ alt="image of a beach";background-repeat: no repeat;background-attachments: fixe
 </style>
 </head>
 <body>
-<h1><img: src="C:\Users\Nicet\Pictures\my pics\FMWhatsApp Images\img-20200826-WA0039" alt="image of Ntwari Nicet";> who is this guy</h1>
+<h1><img: src="images\Nicet .jpg";> who is this guy</h1>
 <p>His full name is  Ntwari Nicet and <br> he was born on 7th july 2002 in musanze district in the northern province of rwanda.
 <h1> current occupation </h1>
 <p> He is now studying at moringa school more about coding.</p>
