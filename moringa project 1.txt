@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+<style>
+</style>
+</head>
+<body>
+<h1> who is this guy</h1>
+<p>His full name is  Ntwari Nicet and <br> he was born on 7th july 2002 in musanze district in the northern province of rwanda.
+<h1> current occupation </h1>
+<p> He is now studying at moringa school more about coding.</p>
+<h1> educational background</h1>
+<p> he is a high school graduate and <br>he finished high school in 2019 at Minor seminary saint john Nkumba<br> where he studied mathematics,chemistry and biology as a combination in advanced level</p>
+<h1> Hobbies </h1>
+ <p>he likes  playing both football and guitar</p>
+</body>
+</html>
