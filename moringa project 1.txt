@@ -14,7 +14,7 @@ alt="image of a beach";background-repeat: no repeat;background-attachments: fixe
 <p> He is now studying at moringa school more about coding.</p>
 <h1> educational background</h1>
 <p> He is a high school graduate and <br>he finished high school in 2019 at Minor seminary saint john Nkumba<br> where he studied mathematics,chemistry and biology as a combination in advanced level</p>
-<h1> Hobbies </h1>
+<h1 style="color:brown"> Hobbies </h1>
  <p>He likes  playing both football and guitar</p>
 </body>
 </html>
