@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang"eng">
 <head>
 <style>
 div{background-image:src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreviews.123rf.com%2Fimages%2Fheckmannoleg%2Fheckmannoleg1707%2Fheckmannoleg170700069%2F82896179-sea-view-from-tropical-beach-with-sunny-sky-summer-paradise-beach-tropical-shore-tropical-sea-exotic.jpg&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fphoto_82896179_sea-view-from-tropical-beach-with-sunny-sky-summer-paradise-beach-tropical-shore-tropical-sea-exotic.html&tbnid=deD12utk-byT4M&vet=12ahUKEwjavrqanvXrAhUWNxoKHcB3D7gQMygDegUIARDTAQ..i&docid=ONiDmJmngDGj1M&w=1300&h=866&q=sky%20view&hl=en&ved=2ahUKEwjavrqanvXrAhUWNxoKHcB3D7gQMygDegUIARDTAQ"
